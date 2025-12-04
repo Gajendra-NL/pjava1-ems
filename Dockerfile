@@ -1,4 +1,4 @@
-From eclipse-temurin:21
+From eclipse-temurin:21-jdk-alpine
 
 LABEL maintainer="gcloud.test@gmail.com"
 
